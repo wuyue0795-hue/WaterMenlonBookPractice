@@ -1,1 +1,0 @@
-This is for the DecisionTree with gini and gain
